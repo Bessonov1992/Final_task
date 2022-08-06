@@ -1,0 +1,73 @@
+1659731526141	geckodriver	INFO	Listening on 127.0.0.1:49187
+1659731528183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilevVp59d"
+1659731528426	Marionette	INFO	Marionette enabled
+1659731528430	Marionette	INFO	Listening on port 49197
+WebDriver BiDi listening on ws://localhost:49188
+Read port: 49197
+1659731528617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilevVp59d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49188/devtools/browser/18fbab35-b195-43e6-8572-5267811e35cb
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1659731531653	Marionette	INFO	Stopped listening on port 49197
+1659737106817	geckodriver	INFO	Listening on 127.0.0.1:64265
+1659737202117	geckodriver	INFO	Listening on 127.0.0.1:64308
+1659737204155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofile3rvau6"
+1659737204403	Marionette	INFO	Marionette enabled
+1659737204407	Marionette	INFO	Listening on port 64318
+WebDriver BiDi listening on ws://localhost:64309
+Read port: 64318
+1659737204600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofile3rvau6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64309/devtools/browser/e22f53fb-a47b-4148-b151-e3163b89f332
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1659737207388	Marionette	INFO	Stopped listening on port 64318
+1659737217143	geckodriver	INFO	Listening on 127.0.0.1:64345
+1659737219203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilemtuNev"
+1659737219441	Marionette	INFO	Marionette enabled
+1659737219444	Marionette	INFO	Listening on port 64355
+WebDriver BiDi listening on ws://localhost:64346
+Read port: 64355
+1659737219628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilemtuNev\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64346/devtools/browser/3c174733-cca2-4cae-a753-74cba417480b
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/accounts/login/, line 624: ReferenceError: oscar is not defined
+1659737222050	Marionette	INFO	Stopped listening on port 64355
+1659792778661	geckodriver	INFO	Listening on 127.0.0.1:57201
+1659792780696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilecBNOia"
+1659792780979	Marionette	INFO	Marionette enabled
+1659792780982	Marionette	INFO	Listening on port 57211
+WebDriver BiDi listening on ws://localhost:57202
+Read port: 57211
+1659792781071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilecBNOia\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57202/devtools/browser/afb7461f-d485-4306-8132-d0de1376743a
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1659792788577	Marionette	INFO	Stopped listening on port 57211
+1659792971624	geckodriver	INFO	Listening on 127.0.0.1:62200
+1659792973677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofileUI1YtO"
+1659792973921	Marionette	INFO	Marionette enabled
+1659792973925	Marionette	INFO	Listening on port 62210
+WebDriver BiDi listening on ws://localhost:62201
+Read port: 62210
+1659792974111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofileUI1YtO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62201/devtools/browser/6142f9b6-d1b2-43f8-ab64-6df129446437
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1659792978314	Marionette	INFO	Stopped listening on port 62210
+1659796971716	geckodriver	INFO	Listening on 127.0.0.1:57988
+1659796973752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilevZDeKT"
+1659796974017	Marionette	INFO	Marionette enabled
+1659796974020	Marionette	INFO	Listening on port 58004
+WebDriver BiDi listening on ws://localhost:57989
+Read port: 58004
+1659796974167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\swollow\\AppData\\Local\\Temp\\rust_mozprofilevZDeKT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57989/devtools/browser/ed5c4a0a-58d3-4d3f-9944-1e306638584d
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1659796978008	Marionette	INFO	Stopped listening on port 58004
